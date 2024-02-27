@@ -4,7 +4,7 @@
 	"name": "SYsU-lang",
 
 	// Use prebuild image
-	"image": "sumuzhe317/sysu-lang:1.0",
+	"image": "sumuzhe317/sysu-lang:latest",
 	// Using Dockerfile to build, more info: https://containers.dev/guide/dockerfile
 	// "build": {
 	// 	"dockerfile": "Dockerfile",
